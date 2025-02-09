@@ -22,7 +22,7 @@
     - Recursive Check for Win Condition: The game uses a recursive function to determine if the board has been fully cleared.
 
 4. Technical Details
-- Scanner for User Input: The program uses the Scanner class to gather inputs for board size, menu options, and cell selections.
-- Random Class for Shuffle: The Random class ensures the initial placement of pairs is randomized.
-- Error Handling and Validation: The program validates user inputs for board size, menu options, and cell selections to prevent crashes or incorrect behavior.
-- Recursive and Iterative Methods: The program combines recursive and iterative logic to manage game states, validate conditions, and clear the board.
+    - Scanner for User Input: The program uses the Scanner class to gather inputs for board size, menu options, and cell selections.
+    - Random Class for Shuffle: The Random class ensures the initial placement of pairs is randomized.
+    - Error Handling and Validation: The program validates user inputs for board size, menu options, and cell selections to prevent crashes or incorrect behavior.
+    - Recursive and Iterative Methods: The program combines recursive and iterative logic to manage game states, validate conditions, and clear the board.
